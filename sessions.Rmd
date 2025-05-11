@@ -1,0 +1,16 @@
+---
+  title: "Sessions"
+  output: 
+    html_document:
+      toc: true
+      toc_depth: 3
+      toc_float: true
+      self_contained: true
+      df_print: paged
+      mathjax: default
+---
+  
+Here are the list of papers / book chapters that we will read .... 
+
+# **Session 1**
+

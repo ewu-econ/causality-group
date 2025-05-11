@@ -12,5 +12,7 @@
   
 Here are the list of papers / book chapters that we will read .... 
 
-# **Session 1**
+# **Session 1 (RCT and Regression)**
+
+We will start with the basics of RCT and Regression, the primary reading is Chapter 1, 2 and 3 of Mostly Harmless Econometrics. This sets the stage for the rest of the sessions....
 

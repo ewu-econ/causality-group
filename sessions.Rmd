@@ -8,11 +8,20 @@
       self_contained: true
       df_print: paged
       mathjax: default
+  bibliography: causal_group_books.bib  
+  link-citations: yes
+  linkcolor: blue
 ---
   
 Here are the list of papers / book chapters that we will read .... 
 
 # **Session 1 (RCT and Regression)**
 
-We will start with the basics of RCT and Regression, the primary reading is Chapter 1, 2 and 3 of Mostly Harmless Econometrics. This sets the stage for the rest of the sessions....
+We will start with the basics of RCT and Regression, the primary reading is Chapter 1, 2 and 3 of @angrist_2009. The key idea here is to understand why RCT is considered to be the gold standard of causal inference and how regression can be used to estimate causal effects.
 
+<br>
+<br>
+
+# **References**
+
+<div id="refs"></div>

@@ -15,11 +15,21 @@
   
 Here are the list of papers / book chapters that we will read .... 
 
-# **Session 1 (RCT and Regression)**
+# **Session 1 (Causal Effect and RCT)**
 
-We will start with the basics of RCT and Regression, the primary reading is Chapter 1, 2 and 3 of @angrist_2009. The key idea here is to understand why RCT is considered to be the gold standard of causal inference and how regression can be used to estimate causal effects.
+We will start with the basics of Causal Effect and RCT, the primary reading is Chapter 1, 2 of @angrist_2009. The key questions we will try to understand are following 
+
+- What do we mean by Causal Effect? 
+- Why can't we directly calculate unit level causal effect? (Known as - *The Fundamental Problem of Causality*)?
+- What is the *Average Treatment Effect*, *Average Treatment Effect on the Treated*, *Average Treatment Effect on the Untreated* (these are all **parameters**)?
+- What is the *Identification Problem*?
+- How RCT solves identification problem and why RCT is considered to be the *gold standard* of causal inference (also many may disagree, notably Nobel laureate Angus Deaton)?
 
 <br>
+
+# **Session 2 (Regression and Causality)**
+
+
 <br>
 
 # **References**
